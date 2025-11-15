@@ -2,7 +2,7 @@
 -r requirements-common.txt
 
 # OpenVINO dependencies
-torch >= 2.1.2
+torch>=2.9.0
 openvino ~= 2024.3.0.dev
 optimum-intel[openvino] >= 1.17.2
 
