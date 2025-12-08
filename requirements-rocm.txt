@@ -4,3 +4,4 @@
 # Dependencies for AMD GPUs
 ray >= 2.10.0
 pytest-asyncio
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
